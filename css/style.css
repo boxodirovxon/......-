@@ -6,7 +6,7 @@
 .back{
     width: 800px;
     height: 400px;
-    background-image: url(../img/photo_2021-07-15_17-40-17.jpg);
+    background-image: url(../img/photo_2021-07-15_17-40-15.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-left: 50px;
@@ -28,3 +28,6 @@
     font-size: 18px;
     margin-top: 20px;
 } 
+button{
+    border: none;
+}
